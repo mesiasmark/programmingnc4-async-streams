@@ -1,3 +1,5 @@
+// This file demonstrates error handling in Futures
+
 import 'dart:async';
 
 Future<void> simulateError() async {
